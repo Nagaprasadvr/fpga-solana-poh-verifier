@@ -1,0 +1,12 @@
+# Tell GitHub to ignore .fs files for language statistics
+*.fs linguist-vendored
+
+# Mark Verilog/VHDL as the primary language
+*.v linguist-language=Verilog
+*.sv linguist-language=SystemVerilog
+*.vhd linguist-language=VHDL
+*.vhdl linguist-language=VHDL
+
+# Ignore build artifacts
+*.json linguist-generated
+build/* linguist-generated
