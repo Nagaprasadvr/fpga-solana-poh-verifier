@@ -1,5 +1,4 @@
-// Tang Nano 9K LED Blinker
-// Blinks 6 LEDs in sequence
+// Solana PoH verifier
 
 module top (
     input  wire clk,        // 27 MHz clock input

@@ -1,5 +1,5 @@
 # Tang Nano 9K Project Makefile
-PROJECT = blinky
+PROJECT = solana-poh-verifier
 TOP_MODULE = top
 DEVICE = GW1NR-LV9QN88PC6/I5
 FAMILY = GW1N-9C
